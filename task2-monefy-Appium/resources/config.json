@@ -1,0 +1,8 @@
+{
+  "desiredCapabilities": {
+    "platformName": "Android",
+    "deviceName": "Android Emulator",
+    "app": "resources/com.monefy.app.lite.apk"
+  },
+  "appiumServer": "http://127.0.0.1:4723/wd/hub"
+}
